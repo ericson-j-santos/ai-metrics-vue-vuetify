@@ -1,0 +1,10 @@
+node_modules
+coverage
+dist
+.vscode
+.DS_Store
+
+# Environment variables (local only)
+.env
+.env.local
+.env.*.local
